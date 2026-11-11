@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 django = "==2.2.13"
-tree = "*"
 pandas = "*"
 pandas-datareader = "*"
 
